@@ -7,6 +7,8 @@ This is the official implementation of the following paper:
 > Yeshu Li, Jonathan Cui, Yilun Sheng, Xiao Liang, Jingdong Wang, Eric I-Chao Chang, Yan Xu
 > 
 > *[Computerized Medical Imaging and Graphics](https://doi.org/10.1016/j.compmedimag.2021.101991)*
+> 
+> [[arXiv]](https://arxiv.org/abs/2110.15601)
 
 ## Network
 
